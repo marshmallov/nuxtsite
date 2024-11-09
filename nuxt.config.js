@@ -1,5 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  target: 'static', // Ensures a static build, suitable for SPA deployment
+  ssr: false,   
   head: {
     title: 'nuxtsite',
     htmlAttrs: {
