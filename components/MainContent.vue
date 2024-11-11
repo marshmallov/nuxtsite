@@ -122,7 +122,7 @@
   }
   
   h1 {
-    font-size: 10rem;
+    font-size: 10vw;
     margin-bottom: 1rem;
     color: #ffffff;
   }
@@ -134,6 +134,7 @@
   }
   
   p {
+    
     color: #ffffff;
   }
   </style>

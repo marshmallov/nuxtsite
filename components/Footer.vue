@@ -1,6 +1,6 @@
 <template>
     <footer>
-      <p>&copy; 2020 O'Vonel </p>
+      <a>&copy; 2020 O'Vonel </a>
     </footer>
   </template>
   
@@ -12,6 +12,7 @@
   
   <style >
   footer {
+    
     background-color: #000000;
     color: white;
     text-align: center;

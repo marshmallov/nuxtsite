@@ -1,6 +1,5 @@
 <template>
   <div>
-  <!-- <Tutorial/> -->
     <Navbar/>
     <MainContent/>
     <Footer/>
