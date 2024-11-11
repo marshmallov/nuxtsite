@@ -3,7 +3,7 @@ export default {
   target: 'static', // Ensures a static build, suitable for SPA deployment
  
   head: {
-    title: 'nuxtsite',
+    title: 'Ovonel',
     htmlAttrs: {
       lang: 'en'
     },
